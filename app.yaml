@@ -1,9 +1,14 @@
 payload:
   - PROCESS-NAME,v2rayNG
+  - PROCESS-NAME,v2rayN.exe
   - PROCESS-NAME,juicity-client
+  - PROCESS-NAME,juicity-client.exe
   - PROCESS-NAME,nekobox
   - PROCESS-NAME,nekobox_core
+  - PROCESS-NAME,nekobox.exe
+  - PROCESS-NAME,nekobox_core.exe
   - PROCESS-NAME,mieru
+  - PROCESS-NAME,mieru.exe
   - PROCESS-NAME,frpc
   - PROCESS-NAME,frpc.exe
   - PROCESS-NAME,frps
