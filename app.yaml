@@ -1,4 +1,8 @@
 payload:
+  - PROCESS-NAME,passwall2
+  - PROCESS-NAME,passwall2_server  
+  - PROCESS-NAME,passwall
+  - PROCESS-NAME,passwall_server
   - PROCESS-NAME,v2rayNG
   - PROCESS-NAME,v2rayN.exe
   - PROCESS-NAME,juicity-client
